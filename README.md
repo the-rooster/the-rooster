@@ -6,7 +6,8 @@
       
 - 🌱 I’m currently learning:</br>
       -  React-Native for android and ios development</br>
-      -  Tensorflow + JAX
+      -  Tensorflow + JAX</br>
+      -  Web Security</br>
       
 - 💞️ I’m looking to collaborate on anything!
 
