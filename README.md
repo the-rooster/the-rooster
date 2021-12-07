@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-rooster
 
 - 👀 Right now im interested in:
-      - App development
+      - App development\n
       - Machine learning for real life applications
       
 - 🌱 I’m currently learning React-Native for android and ios development!
