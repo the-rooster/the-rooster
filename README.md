@@ -8,8 +8,8 @@
       -  React-Native for android and ios development</br>
       -  Tensorflow + JAX</br>
       -  Web Security</br>
-      -  Rust<\br>
-      -  Haskell<\br>
+      -  Rust</br>
+      -  Haskell</br>
       
 - 💞️ I’m looking to collaborate on anything!
 
