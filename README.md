@@ -10,8 +10,6 @@
       -  Web Security</br>
       -  Rust</br>
       -  Haskell</br>
-      
-- 💞️ I’m looking to collaborate on anything!
 
 - 📫 How to reach me: andrewmjculberson@gmail.com
 
