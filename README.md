@@ -4,8 +4,6 @@
       - Full Stack Web Development</br>
       
 - 🌱 I’m currently learning:</br>
-      -  React framework</br>
-      -  WebRTC</br>
       -  Web Security</br>
 
 
